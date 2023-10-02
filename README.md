@@ -91,7 +91,7 @@
 
 
   <img src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt = "Git" width="40" height="40">
-  <img src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt = "GitHub" width="40" height="40">
+  <img src = "https://www.svgrepo.com/show/473620/github.svg" alt = "GitHub" width="40" height="40">
   
   <img src = "https://www.svgrepo.com/show/376339/netlify.svg" alt = "netlify" width="40" height="40">
   <img src = "https://www.svgrepo.com/show/327408/logo-vercel.svg" alt = "netlify" width="40" height="40">
