@@ -77,7 +77,7 @@
   <img src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt = "React JS" width="40" height="40">
   <img src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt = "Node JS" width="40" height="40">
   <img src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt = "Express JS" width="40" height="40">
-  <img src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt = "Next JS" width="40" height="40">
+<!--   <img src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt = "Next JS" width="40" height="40"> -->
   
   <img src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt = "Mongo DB" width="40" height="40">
   <img src = "https://www.svgrepo.com/show/354202/postman-icon.svg" alt = "Postman" width="40" height="40">
