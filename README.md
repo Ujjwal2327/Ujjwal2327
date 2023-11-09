@@ -45,7 +45,7 @@
 - 💬 Ask me About Web development and Web Technolgies.
 - 📫 How to reach me: [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:arjyo77@gmail.com)](mailto:ujjwal2327@gmail.com)
 - ⚡ Fun fact: I am a good artist
-- Profile views: ![](https://komarev.com/ghpvc/?username=ujjwal2327)
+- ![](https://komarev.com/ghpvc/?username=ujjwal2327&color=green)
 
 <br>
 <!-- <h2>📊 Github Stats</h2> -->
