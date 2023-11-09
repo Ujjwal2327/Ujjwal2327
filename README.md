@@ -43,7 +43,7 @@
 - 🌱 I am currently learning Web Development and DSA
 - 👯 I’m looking to collaborate in web dev projects
 - 💬 Ask me About Web development and Web Technolgies.
-- 📫 How to reach me: [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:arjyo77@gmail.com)](mailto:ujjwal2327@gmail.com)
+- 📫 How to reach me: ![](https://img.shields.io/badge/-Gmail-000000?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ujjwal2327@gmail.com)
 - ⚡ Fun fact: I am a good artist
 - ![](https://komarev.com/ghpvc/?username=ujjwal2327&color=green)
 
