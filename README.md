@@ -37,15 +37,15 @@
 <p align="center"><img src="https://user-images.githubusercontent.com/77008381/145186736-1d1a4508-60a3-4169-acb7-ede41a7c85d6.png"></p>
 
 <br>
-<br>
+<be>
 
 - 🔭 I am honing my dev and DSA (C++) skills.
 - 🌱 I am currently learning Web Development and DSA
 - 👯 I’m looking to collaborate in web dev projects
 - 💬 Ask me About Web development and Web Technolgies.
-- 📫 How to reach me: ![](https://img.shields.io/badge/-Gmail-000000?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ujjwal2327@gmail.com)
+- 📫 <p align="center">How to reach me: ![](https://img.shields.io/badge/-Gmail-000000?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ujjwal2327@gmail.com)</p>
 - ⚡ Fun fact: I am a good artist
-- ![](https://komarev.com/ghpvc/?username=ujjwal2327&color=green)
+- <p align="center">![](https://komarev.com/ghpvc/?username=ujjwal2327&color=green)</p>
 
 <br>
 <!-- <h2>📊 Github Stats</h2> -->
