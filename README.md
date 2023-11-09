@@ -43,9 +43,9 @@
 - 🌱 I am currently learning Web Development and DSA
 - 👯 I’m looking to collaborate in web dev projects
 - 💬 Ask me About Web development and Web Technolgies.
-- 📫 <p align="center">How to reach me: ![](https://img.shields.io/badge/-Gmail-000000?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ujjwal2327@gmail.com)</p>
+- 📫 How to reach me: ![](https://img.shields.io/badge/-Gmail-000000?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ujjwal2327@gmail.com)
 - ⚡ Fun fact: I am a good artist
-- <p align="center">![](https://komarev.com/ghpvc/?username=ujjwal2327&color=green)</p>
+- ![](https://komarev.com/ghpvc/?username=ujjwal2327&color=green)
 
 <br>
 <!-- <h2>📊 Github Stats</h2> -->
