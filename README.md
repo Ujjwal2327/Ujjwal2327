@@ -1,6 +1,12 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Ujjwal
 ==============================================================================================================================
-
+<p align="center"> 
+  <b style="color: blue;  ">Visitor count</b>
+  <br>
+  <a style="" href="https://github.com/akashdeep023">
+  <img src="https://profile-counter.glitch.me/akashdeep023/count.svg" />
+  </a>
+</p>
 Programmer | Developer
 ----------------------
 
