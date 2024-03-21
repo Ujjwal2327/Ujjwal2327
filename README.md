@@ -1,15 +1,9 @@
-<h1>
-  Hi 
-  <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" />
-  My name is Ujjwal
-</h1>
-
-<p align="center" style="width: 100%;"> 
-  <h3>Programmer | Developer</h3>
-  <h4 style="color: blue;  ">Visitors Count</h4>
+# ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) Hi, I’m Ujjwal
+<p align="center"> 
+  <b style="color: blue;  ">Visitor count</b>
   <br>
-  <a style="" href="https://github.com/ujjwal2327">
-  <img src="https://profile-counter.glitch.me/ujjwal2327/count.svg" />
+  <a style="" href="https://github.com/akashdeep023">
+  <img src="https://profile-counter.glitch.me/akashdeep023/count.svg" />
   </a>
 </p>
 
