@@ -1,14 +1,12 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Ujjwal
-==============================================================================================================================
 <p align="center"> 
+  <p>Programmer | Developer</p>
   <b style="color: blue;  ">Visitor count</b>
   <br>
   <a style="" href="https://github.com/ujjwal2327">
   <img src="https://profile-counter.glitch.me/ujjwal2327/count.svg" />
   </a>
 </p>
-Programmer | Developer
-----------------------
 
 ### 🌍  I'm based in Uttar Pradesh, India
 ### 🖥️  See my portfolio at [here](http://ujjwal-portfolio.onrender.com/)
