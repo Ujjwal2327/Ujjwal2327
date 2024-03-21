@@ -1,9 +1,11 @@
 # ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) Hi, I’m Ujjwal
 <p align="center"> 
-  <b style="color: blue;  ">Visitor count</b>
+  
+  <h2>Programmer | Developer</h2>
+  <h3 style="color: blue;">Visitor count</h3>
   <br>
-  <a style="" href="https://github.com/akashdeep023">
-  <img src="https://profile-counter.glitch.me/akashdeep023/count.svg" />
+  <a style="" href="https://github.com/ujjwal2327">
+  <img src="https://profile-counter.glitch.me/ujjwal2327/count.svg" />
   </a>
 </p>
 
