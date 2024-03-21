@@ -1,12 +1,13 @@
 # ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) Hi, I’m Ujjwal
   
-  <h2 align="center">Programmer | Developer</h2>
-  <h3 align="center">Visitors Count</h3>
-  <br>
-  <a  align="center" href="https://github.com/ujjwal2327">
-  <img src="https://profile-counter.glitch.me/ujjwal2327/count.svg" />
+<h2 align="center">Programmer | Developer</h2>
+<h3 align="center">Visitors Count</h3>
+<br>
+<p align="center">
+  <a href="https://github.com/ujjwal2327">
+    <img src="https://profile-counter.glitch.me/ujjwal2327/count.svg" />
   </a>
-
+</p>
 ### 🌍  I'm based in Uttar Pradesh, India
 ### 🖥️  See my portfolio at [here](http://ujjwal-portfolio.onrender.com/)
 ### ✉️  You can contact me at [ujjwal2327@gmail.com](mailto:ujjwal2327@gmail.com)
