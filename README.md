@@ -4,9 +4,9 @@
   My name is Ujjwal
 </h1>
 
-<p align="center"> 
-  <p>Programmer | Developer</p>
-  <b style="color: blue;  ">Visitor count</b>
+<p align="center" style="width: 100%;"> 
+  <h3>Programmer | Developer</h3>
+  <h4 style="color: blue;  ">Visitors Count</h4>
   <br>
   <a style="" href="https://github.com/ujjwal2327">
   <img src="https://profile-counter.glitch.me/ujjwal2327/count.svg" />
