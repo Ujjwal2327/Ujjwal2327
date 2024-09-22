@@ -8,7 +8,9 @@
 
 ![Ujjwal Maheshwari's Github Stats Graph](https://github-readme-activity-graph-mnex.vercel.app/graph?username=ujjwal&bg_color=transparent&color=00b8b5&line=eb008b&point=FFFFFF&area=true&hide_border=true&hide_title=true)
 
-</div>---  
+</div>
+
+---  
 
 ## 🧑‍💻 Profiles
 [<img src="https://raw.githubusercontent.com/Ujjwal2327/Angstrom/889d140895e3d72c6c2c135b3a7d0319b9e4bfa8/public/icons/profiles/github.svg" alt="GitHub" width="30" height="30" title=GitHub />](https://github.com/ujjwal2327)&nbsp;&nbsp;
