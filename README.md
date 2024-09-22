@@ -1,13 +1,14 @@
+<div style="text-align:center; margin: 0 auto;">
+
 ![Ujjwal Maheshwari's Github Profile Counter Card](https://profile-counter.glitch.me/ujjwal2327/count.svg)
-<!--rehype:style=text-align:center-->
 
 # 👋 Hey, I'm Ujjwal Maheshwari!
-<!--rehype:style=text-align:center-->
 
 ### I love to make awesome projects
-<!--rehype:style=text-align:center-->
 
 ![Ujjwal Maheshwari's Github Stats Graph](https://github-readme-activity-graph-mnex.vercel.app/graph?username=ujjwal&bg_color=transparent&color=00b8b5&line=eb008b&point=FFFFFF&area=true&hide_border=true&hide_title=true)
+
+</div>
 
 ---  
 
