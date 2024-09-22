@@ -12,10 +12,14 @@
 ---  
 
 ## 🧑‍💻 Profiles
-- [<img src="https://raw.githubusercontent.com/Ujjwal2327/Angstrom/889d140895e3d72c6c2c135b3a7d0319b9e4bfa8/public/icons/profiles/github.svg" alt="GitHub" width="30" height="30" style="margin:10px;"/>](https://github.com/ujjwal2327)
+<div style="display:flex; gap:10px; margin-left:40px">
+  
+[<img src="https://raw.githubusercontent.com/Ujjwal2327/Angstrom/889d140895e3d72c6c2c135b3a7d0319b9e4bfa8/public/icons/profiles/github.svg" alt="GitHub" width="30" height="30" style="margin:10px;"/>](https://github.com/ujjwal2327)
 [<img src="https://raw.githubusercontent.com/Ujjwal2327/Angstrom/889d140895e3d72c6c2c135b3a7d0319b9e4bfa8/public/icons/profiles/leetcode.svg" alt="LeetCode" width="30" height="30" style="margin:10px;"/>](https://leetcode.com/ujjwal2327)
 [<img src="https://raw.githubusercontent.com/Ujjwal2327/Angstrom/889d140895e3d72c6c2c135b3a7d0319b9e4bfa8/public/icons/profiles/linkedin.svg" alt="LinkedIn" width="30" height="30" style="margin: 10px;"/>](https://www.linkedin.com/in/ujjwal2327)
 [<img src="https://raw.githubusercontent.com/Ujjwal2327/Angstrom/889d140895e3d72c6c2c135b3a7d0319b9e4bfa8/public/icons/profiles/geeksforgeeks.svg" alt="Geeks for Geeks" width="30" height="30" style="margin: 10px;"/>](https://geeksforgeeks.org/user/ujjwal2327)
+
+</div>
 
 ---  
 
