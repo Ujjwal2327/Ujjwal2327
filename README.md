@@ -68,43 +68,46 @@
 
 ---  
 
-## 🚀 GitHub Stats  
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=ujjwal2327&theme=transparent&show_icons=true" alt="Ujjwal Maheshwari's GitHub stats" />
+## 🔥 GitHub Streak  
+<div align="center">
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=ujjwal2327&theme=transparent&show_icons=true&hide=contribs,prs" alt="Ujjwal Maheshwari's GitHub stats" />
+![Ujjwal Maheshwari's GitHub Streak](https://streak-stats.demolab.com?user=ujjwal2327&theme=transparent)
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=ujjwal2327&theme=transparent&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" alt="Ujjwal Maheshwari's GitHub stats" />
-
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=ujjwal2327&theme=transparent&show_icons=true&rank_icon=percentile" alt="Ujjwal Maheshwari's GitHub stats" />
-
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=ujjwal2327&theme=transparent&show_icons=true&rank_icon=github" alt="Ujjwal Maheshwari's GitHub stats" />
+</div>
 
 ---  
 
-## 🔥 GitHub Streak  
-![Ujjwal Maheshwari's GitHub Streak](https://streak-stats.demolab.com?user=ujjwal2327&theme=transparent)
+## 🚀 GitHub Stats  
+<div align="center">
+
+![Ujjwal Maheshwari's GitHub stats (Hide Contribs & PRs)](https://github-readme-stats.vercel.app/api?username=ujjwal2327&theme=transparent&show_icons=true&hide=contribs,prs&rank_icon=github)
+
+</div>
 
 ---  
 
 ## 🧠 Most Used Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ujjwal2327&theme=transparent)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ujjwal2327&theme=transparent&layout=compact)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ujjwal2327&theme=transparent&layout=donut-vertical)
+<div align="center">
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ujjwal2327&theme=transparent&hide_progress=true)
+
+</div>
 
 ---  
 
 ## 📦 GitHub Repositories
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=ujjwal2327&theme=transparent&repo=ujjwal2327)](https://github.com/ujjwal2327/ujjwal2327/)
+<div align="center">
+
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=ujjwal2327&theme=transparent&repo=DSA-SUPREME)](https://github.com/ujjwal2327/DSA-SUPREME/)
+
+
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=ujjwal2327&theme=transparent&repo=Angstrom)](https://github.com/ujjwal2327/Angstrom/)
+
+</div>
 
 ---  
 
-## ✏️ GitHub Gists
-[![Gist Card](https://github-readme-stats.vercel.app/api/gist?id=bbfce31e0217a3689c8d961a356cb10d&theme=transparent)](https://gist.github.com/Yizack/bbfce31e0217a3689c8d961a356cb10d/)
+<div align="center">
 
----  
+### ⭐️ From Ujjwal Maheshwari</div>
 
-⭐️ From Ujjwal Maheshwari
