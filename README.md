@@ -145,9 +145,13 @@
 
 <div align="center">
 
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=ujjwal2327&theme=transparent&repo=Angstrom)](https://github.com/ujjwal2327/Angstrom)
+<a href="https://github.com/ujjwal2327/Angstrom">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ujjwal2327&theme=transparent&repo=Angstrom" alt="Repo Card">
+</a>
 
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=ujjwal2327&theme=transparent&repo=DSA-SUPREME)](https://github.com/ujjwal2327/DSA-SUPREME)
+<a href="https://github.com/ujjwal2327/DSA-SUPREME">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ujjwal2327&theme=transparent&repo=DSA-SUPREME" alt="Repo Card">
+</a>
 
 </div>
 
