@@ -4,8 +4,7 @@
 
 <!-- Choose one heading style -->
 <!-- Option 1: Fast & simple text -->
-<!-- # 👋 Hey, I'm Ujjwal Maheshwari!
- -->
+<!-- # 👋 Hey, I'm Ujjwal Maheshwari! -->
 <!-- Option 2: Slower, but with typing animation -->
 ![Intro](https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&duration=4000&lines=Hi+There!+👋;+I'm+Ujjwal+Maheshwari!)
 
