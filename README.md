@@ -148,6 +148,8 @@
 
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=ujjwal2327&theme=transparent&repo=Angstrom)](https://github.com/ujjwal2327/Angstrom)
 
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=ujjwal2327&theme=transparent&repo=DSA-SUPREME)](https://github.com/ujjwal2327/DSA-SUPREME)
+
 </div>
 
 
