@@ -1,113 +1,42 @@
-<div align="center">
+<h1 align="center">Hi 👋, I'm Ujjwal</h1>
+<h3 align="center">A passionate frontend developer from India</h3>
 
-![Ujjwal Maheshwari's Github Profile Counter Card](https://profile-counter.glitch.me/ujjwal2327/count.svg)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ujjwal2327&label=Profile%20views&color=0e75b6&style=flat" alt="ujjwal2327" /> </p>
 
-# 👋 Hey, I'm Ujjwal Maheshwari!
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ujjwal2327" alt="ujjwal2327" /></a> </p>
 
-### I love to make awesome projects
+<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-### [🔗 Portfolio](https://angstrom.vercel.app/users/ujjwal) | [📧 Email](mailto:ujjwal2327@gmail.com)
+- 🔭 I’m currently working on [Angstrom](https://angstrom.vercel.app/)
 
-</div>
+- 🌱 I’m currently learning **Nextjs**
 
-![Ujjwal Maheshwari's Github Stats Graph](https://github-readme-activity-graph-mnex.vercel.app/graph?username=ujjwal&bg_color=transparent&color=00b8b5&line=eb008b&point=FFFFFF&area=true&hide_border=true&hide_title=true)
+- 👯 I’m looking to collaborate on [Angstrom](https://angstrom.vercel.app/)
 
----  
+- 🤝 I’m looking for help with [Angstrom](https://angstrom.vercel.app/)
 
-## 🧑‍💻 Profiles
-[<img src="https://raw.githubusercontent.com/Ujjwal2327/Angstrom/889d140895e3d72c6c2c135b3a7d0319b9e4bfa8/public/icons/profiles/github.svg" alt="GitHub" width="30" height="30" title=GitHub />](https://github.com/ujjwal2327)&nbsp;&nbsp;
-[<img src="https://raw.githubusercontent.com/Ujjwal2327/Angstrom/889d140895e3d72c6c2c135b3a7d0319b9e4bfa8/public/icons/profiles/leetcode.svg" alt="LeetCode" width="30" height="30" title=LeetCode />](https://leetcode.com/ujjwal2327)&nbsp;&nbsp;
-[<img src="https://raw.githubusercontent.com/Ujjwal2327/Angstrom/889d140895e3d72c6c2c135b3a7d0319b9e4bfa8/public/icons/profiles/linkedin.svg" alt="LinkedIn" width="30" height="30" title=LinkedIn />](https://www.linkedin.com/in/ujjwal2327)&nbsp;&nbsp;
-[<img src="https://raw.githubusercontent.com/Ujjwal2327/Angstrom/889d140895e3d72c6c2c135b3a7d0319b9e4bfa8/public/icons/profiles/geeksforgeeks.svg" alt="Geeks for Geeks" width="30" height="30" title=Geeks for Geeks />](https://geeksforgeeks.org/user/ujjwal2327)&nbsp;&nbsp;
+- 👨‍💻 All of my projects are available at [https://angstrom.vercel.app/users/username](https://angstrom.vercel.app/users/username)
 
----  
+- 💬 Ask me about **Nextjs**
 
-## ✨ Tech Stack
-[<img src="https://raw.githubusercontent.com/Ujjwal2327/Angstrom/889d140895e3d72c6c2c135b3a7d0319b9e4bfa8/public/icons/categorizedSkills/backend_dev/express.svg" alt="express" width="30" height="30" title=express />](https://expressjs.com)&nbsp;&nbsp;
-[<img src="https://raw.githubusercontent.com/Ujjwal2327/Angstrom/889d140895e3d72c6c2c135b3a7d0319b9e4bfa8/public/icons/categorizedSkills/baas/firebase.svg" alt="firebase" width="30" height="30" title=firebase />](https://firebase.google.com/)&nbsp;&nbsp;
-[<img src="https://raw.githubusercontent.com/Ujjwal2327/Angstrom/889d140895e3d72c6c2c135b3a7d0319b9e4bfa8/public/icons/categorizedSkills/other/git.svg" alt="git" width="30" height="30" title=git />](https://git-scm.com/)&nbsp;&nbsp;
-[<img src="https://raw.githubusercontent.com/Ujjwal2327/Angstrom/889d140895e3d72c6c2c135b3a7d0319b9e4bfa8/public/icons/categorizedSkills/language/java.svg" alt="java" width="30" height="30" title=java />](https://www.java.com)&nbsp;&nbsp;
-[<img src="https://raw.githubusercontent.com/Ujjwal2327/Angstrom/889d140895e3d72c6c2c135b3a7d0319b9e4bfa8/public/icons/categorizedSkills/language/javascript.svg" alt="javascript" width="30" height="30" title=javascript />](https://developer.mozilla.org/en-US/docs/Web/JavaScript)&nbsp;&nbsp;
-[<img src="https://raw.githubusercontent.com/Ujjwal2327/Angstrom/889d140895e3d72c6c2c135b3a7d0319b9e4bfa8/public/icons/categorizedSkills/database/mongodb.svg" alt="mongodb" width="30" height="30" title=mongodb />](https://www.mongodb.com/)&nbsp;&nbsp;
-[<img src="https://raw.githubusercontent.com/Ujjwal2327/Angstrom/889d140895e3d72c6c2c135b3a7d0319b9e4bfa8/public/icons/categorizedSkills/database/mysql.svg" alt="mysql" width="30" height="30" title=mysql />](https://www.mysql.com/)&nbsp;&nbsp;
-[<img src="https://raw.githubusercontent.com/Ujjwal2327/Angstrom/889d140895e3d72c6c2c135b3a7d0319b9e4bfa8/public/icons/categorizedSkills/static_site_generator/nextjs.svg" alt="nextjs" width="30" height="30" title=nextjs />](https://nextjs.org/)&nbsp;&nbsp;
-[<img src="https://raw.githubusercontent.com/Ujjwal2327/Angstrom/889d140895e3d72c6c2c135b3a7d0319b9e4bfa8/public/icons/categorizedSkills/backend_dev/nodejs.svg" alt="nodejs" width="30" height="30" title=nodejs />](https://nodejs.org)&nbsp;&nbsp;
-[<img src="https://raw.githubusercontent.com/Ujjwal2327/Angstrom/889d140895e3d72c6c2c135b3a7d0319b9e4bfa8/public/icons/categorizedSkills/database/postgresql.svg" alt="postgresql" width="30" height="30" title=postgresql />](https://www.postgresql.org)&nbsp;&nbsp;
-[<img src="https://raw.githubusercontent.com/Ujjwal2327/Angstrom/889d140895e3d72c6c2c135b3a7d0319b9e4bfa8/public/icons/categorizedSkills/software/postman.svg" alt="postman" width="30" height="30" title=postman />](https://postman.com)&nbsp;&nbsp;
-[<img src="https://raw.githubusercontent.com/Ujjwal2327/Angstrom/889d140895e3d72c6c2c135b3a7d0319b9e4bfa8/public/icons/categorizedSkills/frontend_dev/react.svg" alt="react" width="30" height="30" title=react />](https://react.dev)&nbsp;&nbsp;
-[<img src="https://raw.githubusercontent.com/Ujjwal2327/Angstrom/889d140895e3d72c6c2c135b3a7d0319b9e4bfa8/public/icons/categorizedSkills/frontend_dev/redux.svg" alt="redux" width="30" height="30" title=redux />](https://redux.js.org)&nbsp;&nbsp;
-[<img src="https://raw.githubusercontent.com/Ujjwal2327/Angstrom/889d140895e3d72c6c2c135b3a7d0319b9e4bfa8/public/icons/categorizedSkills/frontend_dev/sass.svg" alt="sass" width="30" height="30" title=sass />](https://sass-lang.com)&nbsp;&nbsp;
-, cplusplus, css3, data, dsa, html5
+- 📫 How to reach me **email**
 
----  
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/ujjwal2327" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ujjwal2327" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/ujjwal2327" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="ujjwal2327" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/ujjwal2327" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ujjwal2327" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/ujjwal2327" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="ujjwal2327" height="30" width="40" /></a>
+</p>
 
-## 💼 Experience  
-### 🌟 System Engineer @ Tata Consultancy Services
-- [ July 2024 - Present ]
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://appwrite.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/appwriteio/appwriteio-icon.svg" alt="appwrite" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.cypress.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" alt="cypress" width="40" height="40"/> </a> <a href="https://d3js.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/d3js/d3js-original.svg" alt="d3js" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://www.gatsbyjs.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gatsbyjs/gatsbyjs-icon.svg" alt="gatsby" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://gridsome.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gridsome/gridsome-icon.svg" alt="gridsome" width="40" height="40"/> </a> <a href="https://ifttt.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/ifttt/ifttt-ar21.svg" alt="ifttt" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> <a href="https://zapier.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/zapier/zapier-icon.svg" alt="zapier" width="40" height="40"/> </a> </p>
 
----  
+<h3 align="left">Support:</h3>
+<p><a href="https://www.buymeacoffee.com/ujjwal2327"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="ujjwal2327" /></a><a href="https://ko-fi.com/ujjwal2327"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="ujjwal2327" /></a></p><br><br>
 
-## 📁 Projects
-### 🌟 Angstrom | [Live URL](https://angstrom.vercel.app/) | [Code URL](https://github.com/Ujjwal2327/Angstrom)
-- Your all-in-one career profile platform. Create, share, and impress recruiters with ease.
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ujjwal2327&show_icons=true&locale=en&layout=compact" alt="ujjwal2327" /></p>
 
-### 🌟 AI Interviewer | [Live URL](https://ai-interviewer-ten.vercel.app/) | [Code URL](https://github.com/Ujjwal2327/AI-Interviewer)
-- An AI-driven mock interview app that generates job-specific questions, enabling practice with automated feedback and unlimited retries for personalized preparation.
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ujjwal2327&show_icons=true&locale=en" alt="ujjwal2327" /></p>
 
----  
-
-## 🏫 Education
-### 🌟 X
-- [ April 2017 - Present ]
-
-### 🌟 Bachelor of Technology in Information Technology
-- **Score**: 8.5 CGPA &nbsp;&nbsp;&nbsp; [ November 2020 - June 2024 ]
-
-### 🌟 XII in PCM
-- **Score**: 97.2% &nbsp;&nbsp;&nbsp; [ April 2019 - March 2020 ]
-
----  
-
-## 🔥 GitHub Streak  
-<div align="center">
-
-![Ujjwal Maheshwari's GitHub Streak](https://streak-stats.demolab.com?user=ujjwal2327&theme=transparent)
-
-</div>
-
----  
-
-## 🚀 GitHub Stats  
-<div align="center">
-
-![Ujjwal Maheshwari's GitHub stats (Hide Contribs & PRs)](https://github-readme-stats.vercel.app/api?username=ujjwal2327&theme=transparent&show_icons=true&hide=contribs,prs&rank_icon=github)
-
-</div>
-
----  
-
-## 🧠 Most Used Languages
-<div align="center">
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ujjwal2327&theme=transparent&hide_progress=true)
-
-</div>
-
----  
-
-## 📦 GitHub Repositories
-<div align="center">
-
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=ujjwal2327&theme=transparent&repo=DSA-SUPREME)](https://github.com/ujjwal2327/DSA-SUPREME/)
-
-
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=ujjwal2327&theme=transparent&repo=Angstrom)](https://github.com/ujjwal2327/Angstrom/)
-
-</div>
-
----  
-
-<div align="center">
-
-### ⭐️ From Ujjwal Maheshwari</div>
-
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ujjwal2327&" alt="ujjwal2327" /></p>
