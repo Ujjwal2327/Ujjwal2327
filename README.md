@@ -1,8 +1,10 @@
+<!-- ujjwal2327/README.md -->
 <!-- Basic Customization Required -->
 
 <div align="center">
 
-![Ujjwal Maheshwari's Github Profile Counter Card](https://profile-counter.glitch.me/ujjwal2327/count.svg)
+<img src="https://visitcount.itsvg.in/api?id=ujjwal2327&label=Profile%20Views&color=0&icon=2" align="right" />
+<br/>
 
 <!-- Choose one heading style -->
 <!-- Option 1: Fast & simple text -->
