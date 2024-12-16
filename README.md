@@ -1,3 +1,4 @@
+
 <!-- ujjwal2327/README.md -->
 <!-- Basic Customization Required -->
 
@@ -72,11 +73,10 @@
 ### 🌟 AI Interviewer | [Live](https://ai-interviewer-ten.vercel.app/) | [Code](https://github.com/Ujjwal2327/AI-Interviewer)
 - An AI-driven mock interview app that generates job-specific questions, enabling practice with automated feedback and unlimited retries for personalized preparation.
 
-
 ---  
 
 
-## 🔥 Stats 
+## 🔥 Stats
 <!--  ![Ujjwal Maheshwari's GitHub Streak](img_link)  -->
 
 <div align="center">
@@ -91,8 +91,6 @@
   - &hide=contribs,prs,issues (hide specific stats, comma-separated)
   - &show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage (show specific stats)
 -->
-
-<div align="center">
 
 ![Ujjwal Maheshwari's GitHub stats](https://github-readme-stats.vercel.app/api?username=ujjwal2327&theme=transparent&show_icons=true&hide=contribs,prs&rank_icon=github)
 
