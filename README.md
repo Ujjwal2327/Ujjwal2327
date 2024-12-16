@@ -18,7 +18,7 @@
 
 ### [🔗 Portfolio](https://angstrom.vercel.app/users/ujjwal) | [📧 Email](mailto:ujjwal2327@gmail.com)
 
-![Ujjwal Maheshwari's Github Stats Graph](https://github-readme-activity-graph-mnex.vercel.app/graph?username=ujjwal&bg_color=transparent&color=00b8b5&line=eb008b&point=FFFFFF&area=true&hide_border=true&hide_title=true)
+![Ujjwal Maheshwari's Github Stats Graph](https://github-readme-activity-graph-mnex.vercel.app/graph?username=ujjwal2327&bg_color=transparent&color=00b8b5&line=eb008b&point=FFFFFF&area=true&hide_border=true&hide_title=true)
 
 </div>
 
