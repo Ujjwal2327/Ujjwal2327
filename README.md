@@ -76,34 +76,14 @@
 ---  
 
 
-## 🏫 Education
-### 🌟 Bachelor of Technology in Information Technology
-- **Score**: 8.5 CGPA &nbsp;&nbsp;&nbsp; [ Nov 2020 - June 2024 ]
-
-### 🌟 XII in PCM
-- **Score**: 97.2% &nbsp;&nbsp;&nbsp; [ April 2019 - March 2020 ]
-
-### 🌟 X
-- **Score**: 95.33% &nbsp;&nbsp;&nbsp; [ April 2017 - March 2018 ]
-
-
----  
-
-
-## 🔥 GitHub Streak  
+## 🔥 Stats 
 <!--  ![Ujjwal Maheshwari's GitHub Streak](img_link)  -->
 
 <div align="center">
 
 ![Ujjwal Maheshwari's GitHub Streak](https://streak-stats.demolab.com?user=ujjwal2327&theme=transparent)
 
-</div>
 
-
----  
-
-
-## 🚀 Stats
 <!-- Configuration options for GitHub stats card:
   - &theme=transparent (or other available themes)
   - &show_icons=true (display icons)
