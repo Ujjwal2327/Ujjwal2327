@@ -83,32 +83,8 @@
 
 ![Ujjwal Maheshwari's GitHub Streak](https://streak-stats.demolab.com?user=ujjwal2327&theme=transparent)
 
-
-<!-- Configuration options for GitHub stats card:
-  - &theme=transparent (or other available themes)
-  - &show_icons=true (display icons)
-  - &rank_icon=github / percentile (choose rank icon style)
-  - &hide=contribs,prs,issues (hide specific stats, comma-separated)
-  - &show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage (show specific stats)
--->
-
 ![Ujjwal Maheshwari's GitHub stats](https://github-readme-stats.vercel.app/api?username=ujjwal2327&theme=transparent&show_icons=true&hide=contribs,prs&rank_icon=github)
 
-<!-- </div> -->
-
-
-<!-- ---  
- -->
-
-<!-- ## 🧠 Most Used Languages -->
-<!-- Configuration options for Most Used Languages card:
-  - &theme=transparent (or other available themes)
-  - &hide_progress=true (hide progress bars)
-  - &layout=compact / donut / donut-vertical / pie (choose layout style)
-  - &langs_count=1 to 20 (number of languages to display)
--->
-
-<!-- <div align="center"> -->
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ujjwal2327&theme=transparent&hide_progress=true)
 
 </div>
