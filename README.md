@@ -81,38 +81,9 @@
 
 <div align="center">
 
-![Ujjwal Maheshwari's GitHub Streak](https://streak-stats.demolab.com?user=ujjwal2327&theme=transparent)
-
 ![Ujjwal Maheshwari's GitHub stats](https://github-readme-stats.vercel.app/api?username=ujjwal2327&theme=transparent&show_icons=true&hide=contribs,prs&rank_icon=github)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ujjwal2327&theme=transparent&hide_progress=true)
-
-</div>
-
-
----  
-
-
-## 📦 Awesome GitHub Repositories
-<!-- Configuration options for GitHub Repo card:
-  - &theme=transparent (or other available themes)
-  - &repo=<repo_name> (specify the repository name)
--->
-
-<!--
-  <a href="repo_link">
-    <img src="img_link" alt="Repo Card">
-  </a>
--->
-
-<div align="center">
-
-<a href="https://github.com/ujjwal2327/Angstrom">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ujjwal2327&theme=transparent&repo=Angstrom" alt="Repo Card">
-</a>
-<a href="https://github.com/ujjwal2327/DSA-SUPREME">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ujjwal2327&theme=transparent&repo=DSA-SUPREME" alt="Repo Card">
-</a>
 
 </div>
 
