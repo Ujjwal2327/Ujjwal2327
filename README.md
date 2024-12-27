@@ -68,10 +68,10 @@
 
 ## 📁 Projects
 ### 🌟 Angstrom | [Live](https://angstrom.vercel.app/) | [Code](https://github.com/Ujjwal2327/Angstrom)
-- An app that simplifies job applications by allowing you to create a comprehensive career profile with a single link. Showcase your skills, projects, and achievements effortlessly.
+- Angstrom is a career-focused app that enables users to create and share professional profiles highlighting their coding skills, achievements, projects, and education. It also includes useful developer tools, such as a Markdown Editor & Github Profile Builder, Code Differ, and Code Snapshot (better alternative to ray.so).
 
 ### 🌟 AI Interviewer | [Live](https://ai-interviewer-ten.vercel.app/) | [Code](https://github.com/Ujjwal2327/AI-Interviewer)
-- An AI-driven mock interview app that generates job-specific questions, enabling practice with automated feedback and unlimited retries for personalized preparation.
+- An app powered by AI to conduct mock interviews, generating job-specific questions for practice. It provides automated feedback and unlimited retries, ensuring personalized preparation for every user.
 
 ---  
 
