@@ -6,18 +6,11 @@
 <img src="https://komarev.com/ghpvc/?username=ujjwal2327" align="right" />
 <br/>
 
-<!-- Choose one heading style -->
-<!-- Option 1: Fast & simple text -->
-# 👋 Hey, I'm Ujjwal Maheshwari!
+![Intro](https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&duration=4000&lines=Hi+There!+👋;+I'm+Ujjwal+Maheshwari!)
 
-<!-- Option 2: Slower, but with typing animation -->
-<!-- ![Intro](https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&duration=4000&lines=Hi+There!+👋;+I'm+Ujjwal+Maheshwari!) -->
-
-### Developer by profession, Entrepreneur by heart
+### Trying to learn something new every day, and shipping most of it. Lately that's a shop app that works without internet and a file converter that runs in your browser, so your files are never sent to a server.
 
 ### [🔗 Portfolio](https://angstrom.vercel.app/users/ujjwal) | [📧 Email](mailto:ujjwal2327@gmail.com)
-
-<!-- ![Ujjwal Maheshwari's Github Stats Graph](https://github-readme-activity-graph-mnex.vercel.app/graph?username=ujjwal2327&bg_color=transparent&color=00b8b5&line=eb008b&point=FFFFFF&area=true&hide_border=true&hide_title=true) -->
 
 </div>
 
@@ -26,10 +19,6 @@
 
 
 ## 🧑‍💻 Profiles
-<!-- Multiple profile icons with links
-[<img src="profile_icon" alt="profile_name" width="30" height="30" title="profile_name" />](user_profile_link)&nbsp;
--->
-
 [<img src="https://raw.githubusercontent.com/Ujjwal2327/Angstrom/2e9d7911f83f5eed8a9e2ca840c2d06fcfb7f7d0/public/icons/profiles/github.svg" alt="GitHub" width="30" height="30" title="GitHub" />](https://github.com/ujjwal2327)&nbsp;
 [<img src="https://raw.githubusercontent.com/Ujjwal2327/Angstrom/2e9d7911f83f5eed8a9e2ca840c2d06fcfb7f7d0/public/icons/profiles/twitter.svg" alt="Twitter" width="30" height="30" title="Twitter" />](https://twitter.com/ujjwal2327)&nbsp;
 [<img src="https://raw.githubusercontent.com/Ujjwal2327/Angstrom/2e9d7911f83f5eed8a9e2ca840c2d06fcfb7f7d0/public/icons/profiles/codechef.svg" alt="CodeChef" width="30" height="30" title="CodeChef" />](https://www.codechef.com/users/ujjwal_2327)&nbsp;
@@ -41,32 +30,52 @@
 
 
 ## ✨ Tech Stack
-<!-- Multiple skill icons
-<img src="skill_icon" alt="skill_name" width="30" height="30" title="skill_name" />&nbsp;
--->
-
-<img src="https://raw.githubusercontent.com/Ujjwal2327/Angstrom/2e9d7911f83f5eed8a9e2ca840c2d06fcfb7f7d0/public/icons/categorizedSkills/language/c++.svg" alt="c++" width="30" height="30" title="c++" />&nbsp;
-<img src="https://raw.githubusercontent.com/Ujjwal2327/Angstrom/2e9d7911f83f5eed8a9e2ca840c2d06fcfb7f7d0/public/icons/categorizedSkills/frontend_dev/css.svg" alt="css" width="30" height="30" title="css" />&nbsp;
-<img src="https://raw.githubusercontent.com/Ujjwal2327/Angstrom/2e9d7911f83f5eed8a9e2ca840c2d06fcfb7f7d0/public/icons/categorizedSkills/backend_dev/express.svg" alt="express" width="30" height="30" title="express" />&nbsp;
-<img src="https://raw.githubusercontent.com/Ujjwal2327/Angstrom/2e9d7911f83f5eed8a9e2ca840c2d06fcfb7f7d0/public/icons/categorizedSkills/baas/firebase.svg" alt="firebase" width="30" height="30" title="firebase" />&nbsp;
-<img src="https://raw.githubusercontent.com/Ujjwal2327/Angstrom/2e9d7911f83f5eed8a9e2ca840c2d06fcfb7f7d0/public/icons/categorizedSkills/other/git.svg" alt="git" width="30" height="30" title="git" />&nbsp;
-<img src="https://raw.githubusercontent.com/Ujjwal2327/Angstrom/2e9d7911f83f5eed8a9e2ca840c2d06fcfb7f7d0/public/icons/categorizedSkills/frontend_dev/html.svg" alt="html" width="30" height="30" title="html" />&nbsp;
-<img src="https://raw.githubusercontent.com/Ujjwal2327/Angstrom/2e9d7911f83f5eed8a9e2ca840c2d06fcfb7f7d0/public/icons/categorizedSkills/language/java.svg" alt="java" width="30" height="30" title="java" />&nbsp;
+<img src="https://raw.githubusercontent.com/Ujjwal2327/Angstrom/2e9d7911f83f5eed8a9e2ca840c2d06fcfb7f7d0/public/icons/categorizedSkills/language/typescript.svg" alt="typescript" width="30" height="30" title="typescript" />&nbsp;
 <img src="https://raw.githubusercontent.com/Ujjwal2327/Angstrom/2e9d7911f83f5eed8a9e2ca840c2d06fcfb7f7d0/public/icons/categorizedSkills/language/javascript.svg" alt="javascript" width="30" height="30" title="javascript" />&nbsp;
-<img src="https://raw.githubusercontent.com/Ujjwal2327/Angstrom/2e9d7911f83f5eed8a9e2ca840c2d06fcfb7f7d0/public/icons/categorizedSkills/database/mongodb.svg" alt="mongodb" width="30" height="30" title="mongodb" />&nbsp;
-<img src="https://raw.githubusercontent.com/Ujjwal2327/Angstrom/2e9d7911f83f5eed8a9e2ca840c2d06fcfb7f7d0/public/icons/categorizedSkills/database/mysql.svg" alt="mysql" width="30" height="30" title="mysql" />&nbsp;
+<img src="https://raw.githubusercontent.com/Ujjwal2327/Angstrom/2e9d7911f83f5eed8a9e2ca840c2d06fcfb7f7d0/public/icons/categorizedSkills/frontend_dev/react.svg" alt="react" width="30" height="30" title="react" />&nbsp;
 <img src="https://raw.githubusercontent.com/Ujjwal2327/Angstrom/2e9d7911f83f5eed8a9e2ca840c2d06fcfb7f7d0/public/icons/categorizedSkills/static_site_generator/nextjs.svg" alt="nextjs" width="30" height="30" title="nextjs" />&nbsp;
 <img src="https://raw.githubusercontent.com/Ujjwal2327/Angstrom/2e9d7911f83f5eed8a9e2ca840c2d06fcfb7f7d0/public/icons/categorizedSkills/backend_dev/nodejs.svg" alt="nodejs" width="30" height="30" title="nodejs" />&nbsp;
+<img src="https://raw.githubusercontent.com/Ujjwal2327/Angstrom/2e9d7911f83f5eed8a9e2ca840c2d06fcfb7f7d0/public/icons/categorizedSkills/frontend_dev/tailwind.svg" alt="tailwind" width="30" height="30" title="tailwind" />&nbsp;
 <img src="https://raw.githubusercontent.com/Ujjwal2327/Angstrom/2e9d7911f83f5eed8a9e2ca840c2d06fcfb7f7d0/public/icons/categorizedSkills/database/postgresql.svg" alt="postgresql" width="30" height="30" title="postgresql" />&nbsp;
-<img src="https://raw.githubusercontent.com/Ujjwal2327/Angstrom/2e9d7911f83f5eed8a9e2ca840c2d06fcfb7f7d0/public/icons/categorizedSkills/software/postman.svg" alt="postman" width="30" height="30" title="postman" />&nbsp;
-<img src="https://raw.githubusercontent.com/Ujjwal2327/Angstrom/2e9d7911f83f5eed8a9e2ca840c2d06fcfb7f7d0/public/icons/categorizedSkills/testing/puppeteer.svg" alt="puppeteer" width="30" height="30" title="puppeteer" />&nbsp;
-<img src="https://raw.githubusercontent.com/Ujjwal2327/Angstrom/2e9d7911f83f5eed8a9e2ca840c2d06fcfb7f7d0/public/icons/categorizedSkills/frontend_dev/react.svg" alt="react" width="30" height="30" title="react" />&nbsp;
+<img src="https://raw.githubusercontent.com/Ujjwal2327/Angstrom/2e9d7911f83f5eed8a9e2ca840c2d06fcfb7f7d0/public/icons/categorizedSkills/language/java.svg" alt="java" width="30" height="30" title="java" />&nbsp;
+<img src="https://raw.githubusercontent.com/Ujjwal2327/Angstrom/2e9d7911f83f5eed8a9e2ca840c2d06fcfb7f7d0/public/icons/categorizedSkills/backend_dev/springboot.svg" alt="springboot" width="30" height="30" title="springboot" />&nbsp;
 <img src="https://raw.githubusercontent.com/Ujjwal2327/Angstrom/2e9d7911f83f5eed8a9e2ca840c2d06fcfb7f7d0/public/icons/categorizedSkills/database/redis.svg" alt="redis" width="30" height="30" title="redis" />&nbsp;
-<img src="https://raw.githubusercontent.com/Ujjwal2327/Angstrom/2e9d7911f83f5eed8a9e2ca840c2d06fcfb7f7d0/public/icons/categorizedSkills/frontend_dev/redux.svg" alt="redux" width="30" height="30" title="redux" />&nbsp;
+<img src="https://raw.githubusercontent.com/Ujjwal2327/Angstrom/2e9d7911f83f5eed8a9e2ca840c2d06fcfb7f7d0/public/icons/categorizedSkills/testing/puppeteer.svg" alt="puppeteer" width="30" height="30" title="puppeteer" />&nbsp;
+<img src="https://raw.githubusercontent.com/Ujjwal2327/Angstrom/2e9d7911f83f5eed8a9e2ca840c2d06fcfb7f7d0/public/icons/categorizedSkills/other/git.svg" alt="git" width="30" height="30" title="git" />&nbsp;
+<img src="https://raw.githubusercontent.com/Ujjwal2327/Angstrom/2e9d7911f83f5eed8a9e2ca840c2d06fcfb7f7d0/public/icons/categorizedSkills/frontend_dev/html.svg" alt="html" width="30" height="30" title="html" />&nbsp;
+<img src="https://raw.githubusercontent.com/Ujjwal2327/Angstrom/2e9d7911f83f5eed8a9e2ca840c2d06fcfb7f7d0/public/icons/categorizedSkills/frontend_dev/css.svg" alt="css" width="30" height="30" title="css" />&nbsp;
 <img src="https://raw.githubusercontent.com/Ujjwal2327/Angstrom/2e9d7911f83f5eed8a9e2ca840c2d06fcfb7f7d0/public/icons/categorizedSkills/frontend_dev/sass.svg" alt="sass" width="30" height="30" title="sass" />&nbsp;
-<img src="https://raw.githubusercontent.com/Ujjwal2327/Angstrom/2e9d7911f83f5eed8a9e2ca840c2d06fcfb7f7d0/public/icons/categorizedSkills/frontend_dev/tailwind.svg" alt="tailwind" width="30" height="30" title="tailwind" />&nbsp;payment-gateway, 
+<img src="https://raw.githubusercontent.com/Ujjwal2327/Angstrom/2e9d7911f83f5eed8a9e2ca840c2d06fcfb7f7d0/public/icons/categorizedSkills/backend_dev/express.svg" alt="express" width="30" height="30" title="express" />&nbsp;
+<img src="https://raw.githubusercontent.com/Ujjwal2327/Angstrom/2e9d7911f83f5eed8a9e2ca840c2d06fcfb7f7d0/public/icons/categorizedSkills/database/mongodb.svg" alt="mongodb" width="30" height="30" title="mongodb" />&nbsp;
+<img src="https://raw.githubusercontent.com/Ujjwal2327/Angstrom/2e9d7911f83f5eed8a9e2ca840c2d06fcfb7f7d0/public/icons/categorizedSkills/database/mysql.svg" alt="mysql" width="30" height="30" title="mysql" />&nbsp;
+<img src="https://raw.githubusercontent.com/Ujjwal2327/Angstrom/2e9d7911f83f5eed8a9e2ca840c2d06fcfb7f7d0/public/icons/categorizedSkills/frontend_dev/redux.svg" alt="redux" width="30" height="30" title="redux" />&nbsp;
+<img src="https://raw.githubusercontent.com/Ujjwal2327/Angstrom/2e9d7911f83f5eed8a9e2ca840c2d06fcfb7f7d0/public/icons/categorizedSkills/baas/firebase.svg" alt="firebase" width="30" height="30" title="firebase" />&nbsp;
+<img src="https://raw.githubusercontent.com/Ujjwal2327/Angstrom/2e9d7911f83f5eed8a9e2ca840c2d06fcfb7f7d0/public/icons/categorizedSkills/software/postman.svg" alt="postman" width="30" height="30" title="postman" />&nbsp;
+<img src="https://raw.githubusercontent.com/Ujjwal2327/Angstrom/2e9d7911f83f5eed8a9e2ca840c2d06fcfb7f7d0/public/icons/categorizedSkills/language/c++.svg" alt="c++" width="30" height="30" title="c++" />&nbsp;prisma, 
+supabase, 
+shadcn-ui, 
+radix-ui, 
+zod, 
+react-hook-form, 
+zustand, 
 tanstack-query, 
-zustand
+authjs, 
+clerk, 
+react-flow, 
+openai, 
+payment-gateway, 
+ffmpeg, 
+webassembly, 
+monaco-editor, 
+mermaid, 
+tiptap, 
+recharts, 
+yt-dlp, 
+vercel, 
+socket.io, 
+gemini, 
+drizzle, 
+convex
 
 
 ---  
@@ -74,91 +83,40 @@ zustand
 
 ## 💼 Experience  
 ### 🌟 System Engineer @ TCS
-- [ Feb 2025 - Present ]
-- Working as a Backend Developer in TCS BaNCS with tech stack Java, Springboot and Oracle SQL
+- [ Feb 2025 - Oct 2025 ]
+- Working as a Backend Developer in TCS BaNCS with tech stack Java, Springboot and PostgreSQL
 
 
 ---  
 
 
 ## 📁 Projects
+### 🌟 Vyaapaar | [Code](https://github.com/Ujjwal2327/vyaapaar) | [Live](https://vyaapaar.vercel.app/)
+- A shop's whole back office in one phone app that keeps working with no signal: sales and price edits queue offline and sync when you're back, and if two devices changed the same contact you pick the winner field by field. It replaces the paper khata book and WhatsApp price lists for small Indian businesses, with a ledger that auto-settles dues, UPI scan-to-pay QR codes for the exact amount, PDF invoices, live balances per contact and profit reports. Each business also gets a public catalog link where customers search prices, build a cart and send an itemised enquiry on WhatsApp.
+
 ### 🌟 Scrapel | [Code](https://github.com/Ujjwal2327/Scrapel) | [Live](https://scrapel.vercel.app/)
-- Scrapel is a visual web scraping tool that empowers users to create custom scrapers effortlessly using an intuitive workflow builder powered by AI. It features a credential management system, scheduling options, and automated data extraction, making web scraping accessible and efficient for everyone.
+- Build a web scraper by dragging steps onto a canvas and wiring them together, then hit run and watch it execute live, with every run's output, errors and history saved. An AI step pulls the data out of the page and checks it before saving, so you don't end up with junk rows. Logins can be stored once and reused across workflows, and usage is metered in credits you buy through an integrated payment gateway (₹199 for 500).
+
+### 🌟 Refom | [Code](https://github.com/Ujjwal2327/mutants) | [Live](https://refom.vercel.app/)
+- Converts files between 65 formats — images, PDFs, spreadsheets, Word docs, data files, archives, fonts, audio and video — without uploading anything; your files never leave the tab. Drop in one file or a hundred, pick an output for each (or set them all at once), and grab the results as a single ZIP. PDFs can come out as images, text, HTML, Markdown, Word or CSV, and there's no size cap beyond what your browser's memory can handle.
 
 ### 🌟 Angstrom | [Code](https://github.com/Ujjwal2327/Angstrom) | [Live](https://angstrom.vercel.app/)
-- Angstrom is a career-focused app that enables users to create and share professional profiles highlighting their coding skills, achievements, projects, and education. It also includes useful developer tools, such as a Markdown Editor & Github Profile Builder, JSON Slicer, Code Differ, and Code Snapshot (better alternative to ray.so).
+- Five developer tools under one roof, and one of them is the portfolio builder serving this very page. Sign in and it gives you a shareable public profile. The other four: a code-screenshot maker (20+ themes, PNG/SVG export, shareable links), a side-by-side diff viewer covering 70+ languages, a JSON slicer where you tick the fields you want and get only those, and a markdown editor that turns into a GitHub profile README in one click.
 
-### 🌟 Code Snapshot (Angstrom Tool) | [Code](https://github.com/Ujjwal2327/Angstrom) | [Live](https://angstrom.vercel.app/code-snapshot)
-- A tool for creating and sharing beautiful, customizable code snippets. Features include language auto-detection, customizable themes, fonts, padding, and modes, all in a responsive design. It offers seamless exports as PNG, SVG, or shareable links.
-
-### 🌟 AI Interviewer | [Code](https://github.com/Ujjwal2327/AI-Interviewer) | [Live](https://ai-interviewer-ten.vercel.app/)
-- An app powered by AI to conduct mock interviews, generating job-specific questions for practice. It provides automated feedback and unlimited retries, ensuring personalized preparation for every user.
-
-### 🌟 Apni Dukaan | [Code](http://github.com/Ujjwal2327/Apni-Dukaan) | [Live](https://apni--dukaan.vercel.app)
-- An app designed to help shop owners manage inventory and track sales effortlessly. It allows you to monitor stock levels, analyze sales data across different time periods, and streamline your shop management for improved efficiency.
-
-### 🌟 Markdown Editor (Angstrom Tool) | [Code](https://github.com/Ujjwal2327/Angstrom) | [Live](https://angstrom.vercel.app/tools/markdown-editor)
-- An app designed for creating and editing Markdown effortlessly. Enjoy a seamless experience with live previews as you write. With just one click, you can generate a stylish, customized GitHub README profile, making your content stand out with ease.
+### 🌟 YT Labs | [Code](https://github.com/Ujjwal2327/YT-Labs) | [Live](https://yt-labs.vercel.app/)
+- Paste a YouTube link — a video, a Short or a whole playlist — and get MP4 up to 4K, MP3 up to 320kbps, or the full-resolution thumbnail. No API key, no sign-up. One catch: YouTube blocks datacenter IPs, so the hosted demo can't actually download; it works when you run it yourself.
 
 
 ---  
 
 
-## 🔥 GitHub Stats
-<!--  ![Ujjwal Maheshwari's GitHub Streak](img_link)  -->
-
+## 🔥 GitHub Streak  
 <div align="center">
 
 ![Ujjwal Maheshwari's GitHub Streak](https://streak-stats.demolab.com?user=ujjwal2327&theme=transparent)
 
-<!-- </div> -->
-
-
-<!-- --- -->
-
-<!-- ## 🚀 GitHub Stats -->
-<!-- Configuration options for GitHub stats card:
-  - &theme=transparent (or other available themes)
-  - &show_icons=true (display icons)
-  - &rank_icon=github / percentile (choose rank icon style)
-  - &hide=contribs,prs,issues (hide specific stats, comma-separated)
-  - &show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage (show specific stats)
--->
-
-<div align="center">
-
-![Ujjwal Maheshwari's GitHub stats](https://github-readme-stats.vercel.app/api?username=ujjwal2327&theme=transparent&show_icons=true&hide=contribs,prs&rank_icon=github)
-
-<!-- ![Ujjwal Maheshwari's GitHub stats](https://github-readme-stats.vercel.app/api?username=ujjwal2327&theme=transparent&show_icons=true)
-
-![Ujjwal Maheshwari's GitHub stats](https://github-readme-stats.vercel.app/api?username=ujjwal2327&theme=transparent&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&rank_icon=percentile) -->
-
 </div>
 
-
-<!-- ---  
- -->
-
-<!-- ## 🧠 Most Used Languages -->
-<!-- Configuration options for Most Used Languages card:
-  - &theme=transparent (or other available themes)
-  - &hide_progress=true (hide progress bars)
-  - &layout=compact / donut / donut-vertical / pie (choose layout style)
-  - &langs_count=1 to 20 (number of languages to display)
--->
-
-<!-- <div align="center">
- -->
-<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ujjwal2327&theme=transparent&hide_progress=true) -->
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ujjwal2327&theme=transparent&layout=compact)
-
-<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ujjwal2327&theme=transparent&langs_count=7)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ujjwal2327&theme=transparent&layout=donut-vertical) -->
-
-<!-- </div>
- -->
 
 ---  
 
